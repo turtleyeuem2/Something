@@ -1,2 +1,1 @@
-# Something
-Funnnn
+# Hi!
